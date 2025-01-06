@@ -1,15 +1,17 @@
 # Task-Manger
 A powerful and dynamic Task Manager application built using modern web technologies, offering a seamless experience for managing daily tasks. This project combines the robustness of Django, the flexibility of GraphQL, and the reliability of PostgreSQL to provide an efficient task management system.
 
-Features
-🗂️ Task Management
+## Features
+### Task Management
 Add, edit, delete, and view tasks effortlessly.
 Includes fields like:
 Title: A concise name for the task.
 Description: Detailed task information.
 Due Date: Deadline to complete the task.
 Completion Status: Mark tasks as completed or pending.
-🛠️ Technology Stack
+
+### Technology Stack
+
 Django Framework
 
 Used for building the backend of the application.
@@ -30,7 +32,7 @@ Provides pre-designed components like buttons, forms, and cards for improved aes
 CSRF Protection
 
 Built-in Django security to protect forms from cross-site request forgery attacks.
-📄 Key Functionalities
+### Key Functionalities
 Dynamic Forms: Forms powered by Django, with backend validation.
 CRUD Operations:
 Create: Add tasks with necessary details.
@@ -43,6 +45,6 @@ Fetch only the fields you need for optimized performance.
 Database Management:
 Powered by PostgreSQL, ensuring scalable and secure data handling.
 Integrated Django migrations for seamless database updates.
-💻 User Interface
+### User Interface
 Clean and user-friendly interface designed using HTML and CSS.
 Interactive buttons and forms styled with Bootstrap for a polished look.
